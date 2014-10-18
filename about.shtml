@@ -31,7 +31,7 @@
                     
                       <div class="collapse navbar-collapse" id="navbar-collapse-02">
                         <ul class="nav navbar-nav">               
-                          <li class="active"><a href="/">Главная<span class="navbar-unread">1</span></a></li>
+                          <li class="active"><a href="#">Главная<span class="navbar-unread">1</span></a></li>
                           <li ><a href="#">Блог</a></li>
                           <li><a href="#">Обо мне</a></li>  
                          </ul>            
@@ -52,46 +52,7 @@
                       </div><!-- /.navbar-collapse -->
                     </nav><!--End Menu-->
 
-        <!--Start Carusel-->    
-        <div class="demo-content-wide ptl">
-          <div id="myCarousel" class="carousel slide" data-interval="false">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-              <div class="item active">
-                <img src="images/carousel/image-01.jpg" alt="" />
-                <div class="carousel-caption">
-                  <h3>Родина-мать</h3>
-                  <p>Живу в Беларуси. Город Минск. Люблю свой город.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="images/carousel/image-02.jpg" alt="" />
-                <div class="carousel-caption">
-                  <h3>Цель вижу!</h3>
-                  <p>Увлекаюсь веб-программированием и немного разбираюсь в компьютерах.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="images/carousel/image-03.jpg" alt="" />
-                <div class="carousel-caption">
-                  <h3>Учение - Свет</h3>
-                  <p>Есть вещи которые я не понимаю и этим они еще больше увлекают меня.</p>
-                </div>
-              </div>
-            </div>
-        <!-- Controls -->
-            <a class="left carousel-control fui-arrow-left" href="#myCarousel" data-slide="prev"></a>
-            <a class="right carousel-control fui-arrow-right" href="#myCarousel" data-slide="next"></a>
-          </div>
-        </div><!-- /.demo-content -->
-      <!-- /.demo-row -->
-      <!--End-->
+        
       <div class="row">
   <div class="col-xs-6 col-md-3">
     
@@ -139,7 +100,8 @@
           </ul>
         </div></div>
     <div class="col-xs-12 col-sm-6 col-md-8">
-      <!--#include file="content.html"-->
+      <h3>О нас</h3>
+      <p>Это тестовый сайт, он еще не доделан.</p>
     </div>
     </div>
 
