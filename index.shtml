@@ -33,16 +33,16 @@
                         <ul class="nav navbar-nav">               
                           <li class="active"><a href="/">Главная<span class="navbar-unread">1</span></a></li>
                           <li ><a href="#">Блог</a></li>
-                          <li><a href="#">Обо мне</a></li>  
+                          <li><a href="/about.shtml">О нас</a></li>  
                          </ul>            
                         <ul class="nav navbar-nav navbar-right">
                             <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Дополнительно <b class="caret"></b></a>
                             <span class="dropdown-arrow"></span>
                             <ul class="dropdown-menu">
-                              <li><a href="#">Action</a></li>
-                              <li><a href="#">Another action</a></li>
-                              <li><a href="#">Something else here</a></li>
+                              <li><a href="#">Вход</a></li>
+                              <li><a href="#">Регистрация</a></li>
+                              <li><a href="#">Обратная связь</a></li>
                               <li class="divider"></li>
                               <li><a href="#">Полезные ссылки</a></li>
                             </ul>

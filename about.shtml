@@ -31,7 +31,7 @@
                     
                       <div class="collapse navbar-collapse" id="navbar-collapse-02">
                         <ul class="nav navbar-nav">               
-                          <li class="active"><a href="#">Главная<span class="navbar-unread">1</span></a></li>
+                          <li class="active"><a href="/">Главная<span class="navbar-unread">1</span></a></li>
                           <li ><a href="#">Блог</a></li>
                           <li><a href="#">Обо мне</a></li>  
                          </ul>            
@@ -125,7 +125,7 @@ onclick="window.open('page2.htm','win1','width=200,height=200,menubar')">
 
             <div class="col-md-7">
               <ul class="bottom-links">
-                <li><a href="#fakelink">Обо мне</a></li>
+                <li><a href="/">Обо мне</a></li>
                 <!--<li><a href="#fakelink">Store</a></li>
                 <li class="active"><a href="#fakelink">Jobs</a></li>
                 <li><a href="#fakelink">Privacy</a></li>
