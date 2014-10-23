@@ -102,6 +102,11 @@
     <div class="col-xs-12 col-sm-6 col-md-8">
       <h3>О нас</h3>
       <p>Это тестовый сайт, он еще не доделан.</p>
+      <form>
+<input type="button" value="Щелкните здесь, чтобы увидеть"
+onclick="window.open('page2.htm','win1','width=200,height=200,menubar')">
+</form> 
+      <script language="JavaScript" src="main.js"></script>
     </div>
     </div>
 
